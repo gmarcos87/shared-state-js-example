@@ -1,0 +1,19 @@
+{
+  "name": "js-shared-state-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "obj2map": "^1.0.0",
+    "shared-state-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
